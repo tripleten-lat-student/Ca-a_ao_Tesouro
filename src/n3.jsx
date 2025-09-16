@@ -6,7 +6,7 @@ class n extends React.Component {
   }
   render() {
     this.state = {
-      secretMessage: " águia voa à meia-noite",
+      secretMessage: "a águia voa à meia-noite",
     };
     return (
       <>
